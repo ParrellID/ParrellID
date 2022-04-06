@@ -28,13 +28,7 @@ Donate Me On:
 
 * [`Saweria`](https://saweria.co/farrellathar)
 
-<img src="https://raw.githubusercontent.com/ParrellID/ParrellID/main/img/donate.png" width="148">
-
----
-
-<img src="https://raw.githubusercontent.com/ParrellID/ParrellID/main/img/kawaii.gif">
-
-## Stats
+## STATS
 
 <a href="https://github.com/ParrellID"><img src="https://github-readme-stats.vercel.app/api?username=ParrellID&show_icons=true&theme=radical"></a>
 
@@ -51,7 +45,7 @@ Donate Me On:
 
 </p>
 
-## Trophies
+## TROPHIES
 
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ParrellID&row=2&column=3"/>
 
