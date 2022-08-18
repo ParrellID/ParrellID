@@ -20,7 +20,7 @@ Nama: Farrell Athar Ramadhan
 
 Umur: 15 Tahun📍
 
-Whatsapp: https://wa.me/6285807231447
+Whatsapp: https://wa.me/6285746181151
 
 ## DONATE ME: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 
