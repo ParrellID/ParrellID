@@ -10,7 +10,7 @@
 
 ---
 
-<a href="https://github.com/ParrellID"><img src="https://github.com/ParrellID/ParrellID/blob/main/PicsArt_04-11-02.31.01.jpg"></a>
+<a href="https://github.com/ParrellID"><img src="https://github.com/ParrellID/termux-wabot/blob/master/src/avatar_contact.png"></a>
 
 </p>
 
