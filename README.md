@@ -10,15 +10,13 @@
 
 ---
 
-<a href="https://github.com/ParrellID"><img src="https://github.com/ParrellID/termux-wabot/blob/master/src/avatar_contact.png"></a>
-
 </p>
 
 <br>
 
 Nama: Farrell Athar Ramadhan
 
-Umur: 15 Tahun📍
+Umur: 15 Tahun
 
 Whatsapp: https://wa.me/6285746181151
 
